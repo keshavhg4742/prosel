@@ -1,0 +1,8 @@
+com\script\CommonLogin.class
+com\script\CommonLogOut.class
+com\generic\XL.class
+com\generic\BaseTest.class
+com\generic\AutoLib.class
+com\page\LogOutPage.class
+com\generic\IAutoConstant.class
+com\generic\LoginCommon.class

@@ -1,0 +1,4 @@
+# Created at 2019-07-19T21:28:18.498
+Boot Manifest-JAR contains absolute paths in classpath 'E:\java\QSP\Prosales\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
